@@ -1,3 +1,4 @@
 settings:
-  frontmatter_not_escaped:
-    - "true"
+  mention_contributors_in_pull_requests:
+  - "true"
+  
